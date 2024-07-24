@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_lib_web_ui=self.webpackChunkdoc_lib_web_ui||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/design-system/blog","blogTitle":"Blog"}')}}]);
